@@ -17,6 +17,8 @@ git clone https://github.com/engchamitha/youtube-test-kd.git
 
 Then you can open the project in VS code. Open the cmd inside the project. Then type "code ."
 
+![Areas of version control](./docs/images/readme-1.png)
+
 ## How to commit from your PC to Github
 
 Change the file name from test.html to index.html. Then go to sourse control in VS code. You can see the changes there. (You need to install GitLense first).
